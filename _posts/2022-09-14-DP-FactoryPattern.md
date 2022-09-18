@@ -1,12 +1,6 @@
 <https://digestcpp.com/designpattern/creational/factory/>
 
 ```ruby
-#include<iostream>
-
-#include<memory>
-
- 
-//Pizza
 class Pizza
 {
 public:
