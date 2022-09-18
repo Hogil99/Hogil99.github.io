@@ -1,72 +1,81 @@
 <https://digestcpp.com/designpattern/creational/factory/>
 
 ```ruby
-#include <iostream>
+#include<iostream>
 
-using std;
+#include<memory>
 
+ 
+//Pizza
 class Pizza
 {
-    public :
-    virtual void BakePizza() = 0;
-    virtual void PackPizza() = 0;
+public:
+    virtual void BakePizza()=0; 
+    virtual void PackPizza()=0;
 };
 
-class DominoPanerrPizza : public Pizza
+class DominoPanerrPiza : public Pizza
 {
-    public:
-    void BakePizza() { cout << "DomioPanerrPizza is ready" << endl;}
-    void packPizza() { cout << "DomioPanerrPizza is  packed" << endl;}
-}
+public:
+    void BakePizza()  {  std::cout<<"DominoPanerrPiza is ready"<<std::endl;  }
+    void PackPizza()  {  std::cout<<"DominoPanerrPiza is packed"<<std::endl;  }
+};
 
-class DominoCheesePizza : public Pizza
-{
-    public:
-    void BakePizza() { cout << "DomioCheesePizza is ready" << endl;}
-    void packPizza() { cout << "DomioCheesePizza is  packed" << endl;}
-}
+class DominoCheesePiza : public Pizza {
+public:
+    void BakePizza() { std::cout<<"DominoCheesePiza is ready"<<std::endl; }
+    void PackPizza() { std::cout<<"DominoCheesePiza is packed"<<std::endl; }
+};
 
 class PizzaFactory
 {
-    protected:
-    std::unique_ptr<Pizza>_mPizza;
-    public:
-    Pizza *GetPizza(std::string type) {
-        _mPizza.reset(CreatePizza(type));
-        return _mPizza.release();
-    }
-    private:
-    virtual Pizza* CreatePizza(std::string type) = 0;
+protected:
+    std::unique_ptr<Pizza>_mPizza;
+public:
+    Pizza* GetPizza(std::string type)
+        {  
+        _mPizza.reset(CreatePizza(type));
+            return _mPizza.release();     
+    }
+private:
+    virtual Pizza* CreatePizza(std::string type)=0;
 };
 
+//DominoPizzaFactory
 class DominoPizzaFactory:public PizzaFactory
 {
-    private:
-        Pizza *createPizza(std::string type) {
-            pizza *pz = nullptr;
-            if (type == "Paneer")
-                pz = new DominoPanerrPizza;
-            else if (type == "Cheese")
-                pz = new DominoCheesePizza;
-            return pz;             
-        }
+private:
+    Pizza* CreatePizza(std::string type)
+    {
+            Pizza* pz = nullptr;
+            if(type == "Paneer")
+                pz = new DominoPanerrPiza;
+            else if (type == "Cheese")
+                 pz = new DominoCheesePiza;
+            else
+                nullptr;
+            return  pz;
+    }
 };
 
-//client
+//Client
+
 int main()
 {
-    std::cout << "In Main" << std::endl;
-    //Select Factory
-    std::unique_ptr<PizzaFactory> ptr{nullptr};
-    ptr.reset(new DominoPizzaFactory);
-    //Order the Pizza with Type
-    std::cout << "Ordering Paneer Pizza from Domino" << std::endl;
-    std::unique_ptr<Pizza> upPz{nullptr};
-    upPz.reset(ptr->GetPizza("Paneer"));
-    upPz->BakePizza();
-    upPz->PackPizza();
-    std::cout << "!!!!Got the Pizza!!!!!!!"<<std::endl;
-    return 0;
+    std::cout<<"In Main"<<std::endl;
+    //Select Factory
+    std::unique_ptr<PizzaFactory>ptr{nullptr};
+    ptr.reset(new DominoPizzaFactory);
+
+    //Order the Pizza with type
+    std::cout<<"Ordering Paneer Pizza from Domino"<<std::endl;
+    std::unique_ptr<Pizza>upPz{nullptr};
+    upPz.reset(ptr->GetPizza("Paneer"));
+    upPz->BakePizza();
+    upPz->PackPizza();
+
+    std::cout<<"!!!!!!!!!!Got the Pizza!!!!!!!!!"<<std::endl;
+    return 0;
 }
-}
+
 ```
