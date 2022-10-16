@@ -1,3 +1,6 @@
+AbstractFactory 패턴 <https://m.blog.naver.com/hblee4119/221961302794>
+
+
 <https://digestcpp.com/designpattern/creational/factory/>
 
 ```ruby
