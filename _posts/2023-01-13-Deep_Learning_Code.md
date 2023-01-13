@@ -1,6 +1,7 @@
+
 경사 하강법
 
-```
+```python
 import torch
 import torch.nn.functional as F
 
