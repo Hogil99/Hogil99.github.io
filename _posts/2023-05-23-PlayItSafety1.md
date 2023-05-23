@@ -185,6 +185,9 @@ Easier for drivers and other bikers to see us: 운전자들과 다른 자전거 
 ### Officer Bow Wow taught us more traffic rules. He told us to watch out for traffic lights and stop signs.
 ### He said to ride carefully around wet leaves, puddles, rocks, broken glass, and cracks in the road.
 
+번역: 경관 Bow Wow는 우리에게 더 많은 교통 규칙을 가르쳐 주었습니다. 그는 우리에게 교통 신호등과 정지 표지판을 주의하라고 말했습니다.  
+그는 젖은 나뭇잎, 물웅덩이, 돌, 깨진 유리, 그리고 도로에 있는 균열 주위를 조심해서 타라고 말했습니다.  
+
 주요 단어:
 
 traffic lights: 교통 신호등을 의미합니다. 도로에서 차량의 운행을 조절하는 빨간불, 노란불, 초록불 등의 신호등입니다.  
