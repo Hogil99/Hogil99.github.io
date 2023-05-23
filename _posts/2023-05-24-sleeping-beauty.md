@@ -90,6 +90,8 @@ The princess will not die. She'll fall asleep: "공주는 죽지 않을 것입�
 ### "Princess, come and try spinning." She said.
 "공주님, 와서 물레질을 해보세요." 그녀가 말했습니다.
 
+
+
 주요 단어에 대해 설명:
 Saw: see의 과거형. "보다"라는 뜻입니다. See는 "보다"라는 뜻을 가진 동사입니다.  
 
@@ -109,3 +111,6 @@ The princess saw an old woman: "공주는 한 노녀를 보았다."라는 표현
 The old woman was spinning: "그 노녀는 물레질을 하고 있었다."라는 표현입니다.
 
 Princess, come and try spinning: "공주님, 와서 물레질을 해보세요."라는 표현입니다.
+
+
+
