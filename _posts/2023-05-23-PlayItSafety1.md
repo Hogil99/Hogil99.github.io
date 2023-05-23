@@ -205,9 +205,9 @@ around: 주위에, 주변에. 어떤 대상 주위에 위치하거나 행동하�
 
 ### When I got home, there was a big surprise. I got a new bike! I'm glad I learned about bike safety at school today. Now, I know just what to do.
 
-번역: When I got home, there was a big surprise. I got a new bike! I'm glad I learned about bike safety at school today. Now, I know just what to do.
+번역: 집에 돌아왔을 때 큰 놀람이 있었습니다. 새 자전거를 받았어요! 오늘 학교에서 자전거 안전에 대해 배운 것이 기뻤습니다. 이제, 무엇을 해야 할지 알고 있습니다.  
 
-주요 단어:
+주요 단어:  
 
 surprise: 놀라움, 놀람을 의미합니다. 예상치 못한 일이나 선물 등으로 인해 느끼는 감정을 나타냅니다.  
 new: 새로운, 처음 받거나 사용하는 것을 의미합니다.  
