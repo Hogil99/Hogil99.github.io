@@ -1,7 +1,7 @@
 
 ### FLAY IT SAFE (Little Critter)
 
-**## Today was bike safety day at school. Officer Bow Wow came to talk to us.**
+**### Today was bike safety day at school. Officer Bow Wow came to talk to us.**
 번역: 오늘은 학교에서 자전거 안전일이었습니다. 경관 Bow Wow가 와서 우리에게 이야기했습니다.
 
 주요 단어에 대한 설명:
