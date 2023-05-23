@@ -1,4 +1,6 @@
-날짜별로 나만의 관심주 기사 모으기 완성.
+날짜별로 나만의 관심주 기사 모으기 완성
+
+뭐징
 
 import requests
 from bs4 import BeautifulSoup
