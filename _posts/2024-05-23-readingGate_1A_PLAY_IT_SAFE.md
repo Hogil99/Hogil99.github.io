@@ -1,7 +1,7 @@
 
 ### FLAY IT SAFE (Little Critter)
 
-##Today was bike safety day at school. Officer Bow Wow came to talk to us.
+**## Today was bike safety day at school. Officer Bow Wow came to talk to us.**
 번역: 오늘은 학교에서 자전거 안전일이었습니다. 경관 Bow Wow가 와서 우리에게 이야기했습니다.
 
 주요 단어에 대한 설명:
@@ -22,7 +22,7 @@ us: 우리를, 우리에게
 Bike safety day: 자전거 안전일, 자전거 안전에 관한 주제를 다루는 특별한 날
 Came to talk: 와서 이야기하다. 원형은 'come to talk'
 
-##Officer Bow Wow taught us how to check our bikes. First, we made sure our tired had enough air.
+**## Officer Bow Wow taught us how to check our bikes. First, we made sure our tired had enough air.**
 
 번역: 경관 Bow Wow는 우리에게 자전거를 어떻게 점검하는지 가르쳐 주었습니다. 먼저, 우리는 우리의 타이어에 충분한 공기가 들어있는지 확인했습니다.
 
