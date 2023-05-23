@@ -6,21 +6,21 @@
 
 주요 단어에 대한 설명:
 
-Today: 오늘 (과거형 없음)
-was: 'be'의 과거형으로, '이다'라는 의미입니다. 원형은 'be'
-bike: 자전거
-safety: 안전
-day: 날, 하루
-at: ~에, ~에서
-school: 학교
-Officer: 경관, 공무원, 관리인
-Bow Wow: 여기서는 경관의 이름으로 사용됨. 보통 강아지가 짖는 소리를 나타내는 의성어로도 쓰임.
-came: 'come'의 과거형으로, '오다'라는 의미입니다. 원형은 'come'
-to talk: 말하다, 이야기하다
-us: 우리를, 우리에게
-주요 표현 또는 구:
-Bike safety day: 자전거 안전일, 자전거 안전에 관한 주제를 다루는 특별한 날
-Came to talk: 와서 이야기하다. 원형은 'come to talk'
+Today: 오늘 (과거형 없음)  
+was: 'be'의 과거형으로, '이다'라는 의미입니다. 원형은 'be'  
+bike: 자전거  
+safety: 안전  
+day: 날, 하루  
+at: ~에, ~에서  
+school: 학교  
+Officer: 경관, 공무원, 관리인  
+Bow Wow: 여기서는 경관의 이름으로 사용됨. 보통 강아지가 짖는 소리를 나타내는 의성어로도 쓰임.  
+came: 'come'의 과거형으로, '오다'라는 의미입니다. 원형은 'come'  
+to talk: 말하다, 이야기하다  
+us: 우리를, 우리에게  
+주요 표현 또는 구:  
+Bike safety day: 자전거 안전일, 자전거 안전에 관한 주제를 다루는 특별한 날  
+Came to talk: 와서 이야기하다. 원형은 'come to talk'  
 
 ### Officer Bow Wow taught us how to check our bikes. First, we made sure our tired had enough air.**
 
