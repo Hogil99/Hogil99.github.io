@@ -180,3 +180,39 @@ us: 우리를
 주요 표현 또는 구:  
 Told us to wear colorful clothes: 우리에게 색상이 화려한 옷을 입으라고 말하다.  
 Easier for drivers and other bikers to see us: 운전자들과 다른 자전거 타는 사람들이 우리를 보기가 더 쉽다.  
+
+
+### Officer Bow Wow taught us more traffic rules. He told us to watch out for traffic lights and stop signs.
+### He said to ride carefully around wet leaves, puddles, rocks, broken glass, and cracks in the road.
+
+주요 단어:
+
+traffic lights: 교통 신호등을 의미합니다. 도로에서 차량의 운행을 조절하는 빨간불, 노란불, 초록불 등의 신호등입니다.  
+stop signs: 정지 신호를 의미합니다. 교차로에서 운전자에게 정지할 것을 지시하는 빨간색 판이 있는 표지판입니다.  
+wet: 젖은 상태를 나타내는 형용사입니다. 비가 와서 물에 젖은 상태를 의미합니다.  
+leaves: 잎을 의미합니다. 나무에서 떨어져 있는 잎으로, 주로 가을에 많이 발생합니다.  
+puddles: 웅덩이를 의미합니다. 비나 눈이 녹아서 생긴 물 웅덩이를 말합니다.  
+rocks: 돌을 의미합니다. 보통 작은 크기의 돌이며, 도로에서는 주로 도로 가장자리에 발견됩니다.  
+broken glass: 깨진 유리를 의미합니다. 차량 사고 등으로 깨진 유리 조각들이 도로 위에 떨어진 상태를 말합니다.  
+cracks: 틈새를 의미합니다. 도로 표면에 생긴 작은 균열이나 틈을 나타냅니다.  
+주요 표현/구:  
+watch out for: ~에 주의하다, 경계하다. 어떤 위험이나 문제에 대해 주의를 기울이고 조심해야 함을 나타냅니다.  
+ride carefully: 조심히 타다. 자전거, 오토바이 등을 조심스럽게 운전하거나 타야 함을 의미합니다.  
+around: 주위에, 주변에. 어떤 대상 주위에 위치하거나 행동하는 것을 나타냅니다.  
+
+### When I got home, there was a big surprise. I got a new bike! I'm glad I learned about bike safety at school today. Now, I know just what to do.
+
+번역: When I got home, there was a big surprise. I got a new bike! I'm glad I learned about bike safety at school today. Now, I know just what to do.
+
+주요 단어:
+
+surprise: 놀라움, 놀람을 의미합니다. 예상치 못한 일이나 선물 등으로 인해 느끼는 감정을 나타냅니다.  
+new: 새로운, 처음 받거나 사용하는 것을 의미합니다.  
+bike: 자전거를 의미합니다. 두 바퀴로 구성된 이동 수단이며, 사람이 발로 페달을 밟아 움직입니다.  
+glad: 기쁜, 만족스러운을 의미합니다. 어떤 일이나 상황에 대해 기쁘고 만족스러워하는 감정을 나타냅니다.  
+learned: learn의 과거형으로, 배우다를 의미합니다.  
+bike safety: 자전거 안전을 의미합니다. 자전거를 탈 때 안전한 운전과 규칙을 따르는 것을 의미합니다.  
+주요 표현/구:  
+when: ~할 때. 특정한 시점이나 상황에 도달했을 때를 나타냅니다.  
+got home: 집에 도착하다. 어떤 장소에서 집으로 돌아오는 것을 의미합니다.  
+just what to do: 정확히 무엇을 해야 하는지. 어떤 상황이나 과제에 대해 정확하게 알고 있음을 나타냅니다.  
