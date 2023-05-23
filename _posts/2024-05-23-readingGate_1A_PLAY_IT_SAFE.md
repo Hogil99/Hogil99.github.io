@@ -22,7 +22,7 @@ us: 우리를, 우리에게
 Bike safety day: 자전거 안전일, 자전거 안전에 관한 주제를 다루는 특별한 날
 Came to talk: 와서 이야기하다. 원형은 'come to talk'
 
-**## Officer Bow Wow taught us how to check our bikes. First, we made sure our tired had enough air.**
+### Officer Bow Wow taught us how to check our bikes. First, we made sure our tired had enough air.**
 
 번역: 경관 Bow Wow는 우리에게 자전거를 어떻게 점검하는지 가르쳐 주었습니다. 먼저, 우리는 우리의 타이어에 충분한 공기가 들어있는지 확인했습니다.
 
@@ -47,7 +47,7 @@ air: 공기
 How to check our bikes: 우리의 자전거를 어떻게 점검하는지
 Made sure our tires had enough air: 우리의 타이어에 충분한 공기가 있는지 확인했다.
 
-##Then, we put shiny reflectors on our front and back wheels.
+### Then, we put shiny reflectors on our front and back wheels.
 번역: 그 다음, 우리는 앞바퀴와 뒷바퀴에 반짝이는 반사판을 달았습니다.
 
 주요 단어에 대한 설명:
@@ -67,7 +67,7 @@ wheels: 바퀴들
 Put shiny reflectors: 반짝이는 반사판을 달다
 On our front and back wheels: 우리의 앞바퀴와 뒷바퀴에
 
-##Last, we checked that our bike chains were clean and oiled.
+### Last, we checked that our bike chains were clean and oiled.
 번역: 마지막으로, 우리는 우리의 자전거 체인이 깨끗하고 기름칠이 잘 되어 있는지 확인했습니다.
 
 주요 단어에 대한 설명:
@@ -87,7 +87,7 @@ oiled: 'oil'의 과거분사로, '기름칠하다'라는 의미입니다. 원형
 Checked that our bike chains were: 우리의 자전거 체인이 ~인지 확인하다
 Clean and oiled: 깨끗하고 기름칠이 되어있는
 
-##Then, we each got a cool, new helmet. Officer Bow Wow said that we should always wear helmets when we ride our bikes.
+### Then, we each got a cool, new helmet. Officer Bow Wow said that we should always wear helmets when we ride our bikes.
 Then: 그 다음에
 we: 우리는
 each: 각자
@@ -115,10 +115,10 @@ We each got a cool, new helmet: 우리 각자 멋진 새 헬멧을 받았다.
 Said that we should always wear helmets: 우리가 항상 헬멧을 착용해야 한다고 말하다.
 When we ride our bikes: 우리가 자전거를 탈 때
 
-##Officer Bow Wow showed us how to make hand signals.
-##To turn left, you hold your arm out straight.
-##To turn right, you hold your arm up.
-##And to stop, you hold your hand down.
+### Officer Bow Wow showed us how to make hand signals.
+### To turn left, you hold your arm out straight.
+### To turn right, you hold your arm up.
+### And to stop, you hold your hand down.
 번역: 경관 Bow Wow는 우리에게 손짓 신호를 하는 방법을 보여주었습니다.
 왼쪽으로 회전하려면 팔을 곧게 뻗어야 합니다.
 오른쪽으로 회전하려면 팔을 위로 들어야 합니다.
@@ -153,7 +153,7 @@ Hold your arm out straight: 팔을 곧게 뻗다
 Hold your arm up: 팔을 위로 들다
 Hold your hand down: 손을 아래로 내리다
 
-##Next, Officer Bow Wow told us to wear colorful clothes. That way, it is easier for drivers in card and other bikers to see us.
+### Next, Officer Bow Wow told us to wear colorful clothes. That way, it is easier for drivers in card and other bikers to see us.
 번역: 다음으로, 경관 Bow Wow는 우리에게 색상이 화려한 옷을 입으라고 말했습니다. 그렇게 하면, 차를 운전하는 사람들과 다른 자전거 타는 사람들이 우리를 보기가 더 쉽습니다.
 
 주요 단어에 대한 설명:
