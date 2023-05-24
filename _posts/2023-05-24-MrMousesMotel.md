@@ -211,3 +211,24 @@ Blanket: "담요"라는 뜻을 가진 명사입니다.
 Slippers: "슬리퍼"라는 뜻을 가진 명사입니다.
 
 Lemonade: "레모네이드"라는 뜻을 가진 명사입니다.
+
+### Then, the guests finally rest.
+그런 다음, 손님들은 마침내 쉽니다.
+### They are tired too.
+ 그들도 피곤합니다. 
+### "Is there anything else we can get you?" They ask.
+"우리가 더 가져다 줄 수 있는 것이 있나요?" 그들이 묻습니다.
+
+Finally: "마침내", "드디어"라는 뜻을 가진 부사입니다.
+
+Rest: "휴식을 취하다"라는 뜻을 가진 동사입니다.
+
+Ask: "묻다"라는 뜻을 가진 동사입니다.
+
+### But Mr. Mouse does not answer.
+하지만 미스터 마우스는 답하지 않습니다. 
+### He is fast asleep.
+그는 깊이 잠들어 있습니다.
+
+Fast: "빠른"이라는 뜻을 가진 형용사입니다. 여기서는 "깊이"라는 의미로 쓰였습니다.
+Asleep: "잠든"이라는 뜻을 가진 형용사입니다.
