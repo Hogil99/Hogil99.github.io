@@ -1,13 +1,13 @@
 
-1-A
-### E-Book
+## 1-A
+# E-Book
 Monster Boxing <https://hogil99.github.io/MonsterBoxing/>
 
 Walt Disney, the Great Cartoonist <https://hogil99.github.io/WaltDisney/>
 
 Mr. Mouse's Motel <https://hogil99.github.io/MrMousesMotel/>
 
-### Book
+# Book
 Sleeping Beauty <https://hogil99.github.io/SleepingBeauty/>
 
 ## Little Critter  
