@@ -10,5 +10,7 @@ Mr. Mouse's Motel <https://hogil99.github.io/MrMousesMotel/>
 ### Book
 Sleeping Beauty <https://hogil99.github.io/SleepingBeauty/>
 
-Little Critter - The New Fire Truck <https://hogil99.github.io/TheNewFireTruck/>  
-Little Critter - FIELD DAY <https://hogil99.github.io/FieldDay/>
+- Little Critter - 
+The New Fire Truck <https://hogil99.github.io/TheNewFireTruck/>  
+FIELD DAY <https://hogil99.github.io/FieldDay/>
+We Love you, little critter! <https://hogil99.github.io/WeLoveYouLittleCritter/>  
