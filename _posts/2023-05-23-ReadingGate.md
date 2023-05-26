@@ -14,3 +14,4 @@ Sleeping Beauty <https://hogil99.github.io/SleepingBeauty/>
 The New Fire Truck <https://hogil99.github.io/TheNewFireTruck/>  
 FIELD DAY <https://hogil99.github.io/FieldDay/>  
 We Love you, little critter! <https://hogil99.github.io/WeLoveYouLittleCritter/>  
+A DAY AT CAMP <https://hogil99.github.io/ADayAtCamp/>  
